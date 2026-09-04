@@ -7,7 +7,7 @@ about:
   head: c1dd1f7
   archived: false
   latestVersion: 0.9.5
-  collectedAt: 2026-09-04T19:42:54Z
+  collectedAt: 2026-09-04T20:51:28Z
 timeline:
   created: 2015-05-01
   lastCommit: 2024-09-05
@@ -84,6 +84,89 @@ total:
   openIssue: 23
   commit: 700
 ---
+path: /home/runner/.x-repo/github.com/facebook/PathPicker
+collectedAt: 2026-09-04T20:51:29Z
+loc:
+  Python:
+    code: 3003
+    comments: 411
+    blanks: 557
+    files: 29
+  Css:
+    code: 497
+    comments: 42
+    blanks: 69
+    files: 3
+  Svg:
+    code: 255
+    comments: 0
+    blanks: 0
+    files: 1
+  Html:
+    code: 210
+    comments: 9
+    blanks: 7
+    files: 1
+  Sh:
+    code: 68
+    comments: 25
+    blanks: 16
+    files: 4
+  Bash:
+    code: 62
+    comments: 32
+    blanks: 7
+    files: 1
+  Toml:
+    code: 44
+    comments: 0
+    blanks: 6
+    files: 1
+  Ruby:
+    code: 16
+    comments: 6
+    blanks: 4
+    files: 1
+  Ini:
+    code: 15
+    comments: 0
+    blanks: 0
+    files: 1
+  JavaScript:
+    code: 1
+    comments: 9
+    blanks: 0
+    files: 1
+  Bitbake:
+    code: 0
+    comments: 0
+    blanks: 0
+    files: 2
+  CHeader:
+    code: 0
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 157
+    blanks: 85
+    files: 3
+  Text:
+    code: 0
+    comments: 2204
+    blanks: 757
+    files: 54
+  Xml:
+    code: 0
+    comments: 0
+    blanks: 0
+    files: 4
+total:
+  code: 4171
+  comments: 2895
+  blanks: 1508
+  files: 107
 ---
 date: "2026-08-24"
 repo:
