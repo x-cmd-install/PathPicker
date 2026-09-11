@@ -7,7 +7,7 @@ about:
   latestVersion: "0.9.5"
   latestRelease: "0.9.5"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T06:13:37Z
+  collectedAt: 2026-09-11T18:29:15Z
 timeline:
   created: 2015-05-01
   lastCommit: 2024-09-05
@@ -87,7 +87,7 @@ total:
   commit: 700
 ---
 path: /home/runner/.x-repo/github.com/facebook/PathPicker
-collectedAt: 2026-09-11T06:13:40Z
+collectedAt: 2026-09-11T18:29:16Z
 loc:
   Python:
     code: 3003
