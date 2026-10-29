@@ -1,8 +1,8 @@
 {
-  "url": "https://api.github.com/repos/facebook/PathPicker/releases/59542339",
-  "assets_url": "https://api.github.com/repos/facebook/PathPicker/releases/59542339/assets",
-  "upload_url": "https://uploads.github.com/repos/facebook/PathPicker/releases/59542339/assets{?name,label}",
-  "html_url": "https://github.com/facebook/PathPicker/releases/tag/0.9.5",
+  "url": "https://api.github.com/repos/meta/PathPicker/releases/59542339",
+  "assets_url": "https://api.github.com/repos/meta/PathPicker/releases/59542339/assets",
+  "upload_url": "https://uploads.github.com/repos/meta/PathPicker/releases/59542339/assets{?name,label}",
+  "html_url": "https://github.com/meta/PathPicker/releases/tag/0.9.5",
   "id": 59542339,
   "author": {
     "login": "pcottle",
@@ -38,7 +38,7 @@
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/facebook/PathPicker/tarball/0.9.5",
-  "zipball_url": "https://api.github.com/repos/facebook/PathPicker/zipball/0.9.5",
+  "tarball_url": "https://api.github.com/repos/meta/PathPicker/tarball/0.9.5",
+  "zipball_url": "https://api.github.com/repos/meta/PathPicker/zipball/0.9.5",
   "body": "Given all the updates, let's go with a new release (in over a few years!) to bundle all these together"
 }
